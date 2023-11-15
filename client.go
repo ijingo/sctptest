@@ -10,7 +10,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/enobufs/go-rudp"
+	rudp "github.com/ijingo/go-rudp"
 	"github.com/pion/logging"
 )
 

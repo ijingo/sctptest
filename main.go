@@ -4,7 +4,7 @@ import (
 	"flag"
 	"time"
 
-	"github.com/enobufs/go-rudp"
+	rudp "github.com/ijingo/go-rudp"
 	dcep "github.com/pion/datachannel"
 	"github.com/pion/logging"
 )
